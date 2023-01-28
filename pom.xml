@@ -291,7 +291,6 @@
                 </plugins>
             </build>
             <reporting>
-                            <reportPlugins>
                                 <plugin>
                                     <artifactId>maven-project-info-reports-plugin</artifactId>
                                     <version>2.7</version>
@@ -359,7 +358,6 @@
                                     <artifactId>maven-jxr-plugin</artifactId>
                                     <version>2.4</version>
                                 </plugin>
-                            </reportPlugins>
                         </reporting>
         </profile>
         <profile>
